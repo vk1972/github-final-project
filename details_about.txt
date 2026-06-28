@@ -1,2 +1,7 @@
 README.md url:
 https://github.com/vk1972/github-final-project/blob/main/README.md
+
+LICENSE url:
+https://github.com/vk1972/github-final-project/blob/main/LICENSE
+
+
