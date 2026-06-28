@@ -7,4 +7,5 @@ https://github.com/vk1972/github-final-project/blob/main/LICENSE
 CODE_OF_CONDUCT.md url:
 https://github.com/vk1972/github-final-project/blob/main/CODE_OF_CONDUCT.md
 
-
+CONTRIBUTING.md url:
+https://github.com/vk1972/github-final-project/blob/main/CONTRIBUTING.md
