@@ -9,3 +9,6 @@ https://github.com/vk1972/github-final-project/blob/main/CODE_OF_CONDUCT.md
 
 CONTRIBUTING.md url:
 https://github.com/vk1972/github-final-project/blob/main/CONTRIBUTING.md
+
+simple-interest.sh url:
+https://github.com/vk1972/github-final-project/blob/main/simple-interest.sh
