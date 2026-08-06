@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert f541d42 Revert "edited README.md"
+  bug-fix-typo   decc81f edited README.md
+  main           decc81f [origin/main: ahead 1] edited README.md
