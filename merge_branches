@@ -1,0 +1,16 @@
+
+
+
+
+git checkout -b bug-fix-typo
+Switched to a new branch 'bug-fix-typo'
+
+project$ git commit -m "edited README.md"
+[bug-fix-typo decc81f] edited README.md
+ 1 file changed, 1 insertion(+)
+
+git merge bug-fix-typo
+Updating bc49d12..decc81f
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
